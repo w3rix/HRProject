@@ -138,5 +138,3 @@ Developed by Meriç Cengiz [@w3rix](https://github.com/mericcode)!
 🔒 All rights reserved.
 This project is the property of Meric. Unauthorized use, distribution or modification is prohibited.
 ---
-
-> This README will grow as the project evolves. Keep pushing 👊
